@@ -1,1 +1,359 @@
 hello people..............
+$ history
+    1  git --version
+    2  git
+    3  clr
+    4  cd desktop/
+    5  mkdir OTT
+    6  cd OTT
+    7  git clone
+    8  git clone https://github.com/susi-susmith/OttApp.git
+    9  git clone https://github.com/susi-susmith/OttApp.git
+   10  cd desktop/
+   11  mkdir susi
+   12  cd susi
+   13  git clone https://github.com/susi-susmith/Susi.git
+   14  mkdir dir2
+   15  cd dir2
+   16  ll
+   17  touch file1
+   18  ll
+   19  touch file2
+   20  touch file3 file4
+   21  cat file1
+   22  git init
+   23  git config --global user.name "bhavani"
+   24  git config --global user.email "bhavanipokuru98@gmail.com"
+   25  git status
+   26  git add -
+   27  git add .
+   28  git status
+   29  git commit m " files commited"
+   30  git commit -m "files commited"
+   31  git log
+   32  git staus ca3896db2340879aa1082d517e82ab665f4c0b97
+   33  git show
+   34  ASUS@Susmith MINGW64 ~/Desktop/Bhavani/dir2 (master)
+   35  $ git commit m " files commited"
+   36  error: pathspec 'm' did not match any file(s) known to git
+   37  error: pathspec ' files commited' did not match any file(s) known to git
+   38  ASUS@Susmith MINGW64 ~/Desktop/Bhavani/dir2 (master)
+   39  $ git commit -m "files commited"
+   40  [master (root-commit) ca3896d] files commited
+   41   4 files changed, 0 insertions(+), 0 deletions(-)
+   42   create mode 100644 file1
+   43   create mode 100644 file2
+   44   create mode 100644 file3
+   45   create mode 100644 file4
+   46  ASUS@Susmith MINGW64 ~/Desktop/Bhavani/dir2 (master)
+   47  $ git log
+   48  clear
+   49  git status
+   50  git add .
+   51  git status
+   52  touch f1 f2 f3
+   53  git status
+   54  git add .
+   55  git status
+   56  git commit -m "files commited"
+   57  git log
+   58  git show 5ffb27116da05f474e36af6c1cc997341ee5cfbf
+   59  history
+   60  clear
+   61  cd..
+   62  cd ..
+   63  mkdir codepp
+   64  cd codepp
+   65  touch f1 f2 f3
+   66  cat f1
+   67  cat f1
+   68  rm -rf f3
+   69  touch f3
+   70  touch f3
+   71  touch f3
+   72  mkdir codepp
+   73  cd ..
+   74  mkdir codepp
+   75  cd codepp
+   76  rm -rf codepp
+   77  git status
+   78  git add f1 f2 f3
+   79  git status
+   80  ll
+   81  ll -la
+   82  ls
+   83  pwd
+   84  git config --global config.usename "bhavani"
+   85  git config --global config.useremail "bhavanipokuru98@gmail.com"
+   86  git commit -m "message" f1
+   87  git log
+   88  git show ea045ebeac41d110b19ca8082468170ee37c8e90
+   89  history
+   90  cat f1
+   91  clear
+   92  git clone
+   93  clear
+   94  git clone https://github.com/BhavaniSusmith/bb.git
+   95  git clone https://github.com/BhavaniSusmith/bb.git
+   96  git clone https://github.com/BhavaniSusmith/bb.git
+   97  git clonehttps://github.com/BhavaniSusmith/Practiceing-github.git
+   98  git clone https://github.com/BhavaniSusmith/Practiceing-github.git
+   99  git clone https://github.com/BhavaniSusmith/Practiceing-github.git
+  100  git clone https://github.com/BhavaniSusmith/Learning-github.git
+  101  touch f1 f2 f3
+  102  git status
+  103  git add f1 f2 f3
+  104  git status
+  105  git add f1 f2 f3
+  106  git status
+  107  git log
+  108  git comment -m "files commited" f1 f3
+  109  git log
+  110  git show ea045ebeac41d110b19ca8082468170ee37c8e90
+  111  clear
+  112  git push
+  113  git push
+  114  cd..
+  115  git push
+  116  git clone https://github.com/BhavaniSusmith/Learning-github.git
+  117  git push
+  118  git push
+  119  touch file1
+  120  git status
+  121  git add file1
+  122  git status
+  123  git commit -m "commited"
+  124  git log
+  125  git push
+  126  touch ram
+  127  git status
+  128  git add ram
+  129  git commit -m 'Ram file committed'
+  130  git log
+  131  git staus
+  132  git status
+  133  git show 408b85599c30c8bb5ddfb1b1f2b2a32189918aa8
+  134  git push
+  135  q
+  136  mkdir dir1
+  137  cd dir1
+  138  touch file1
+  139  cat file1
+  140  touch file1
+  141  cat file1
+  142  ll
+  143  ls
+  144  ls -la
+  145  touch file2 file3
+  146  rm -rf file2
+  147  ll
+  148  git status
+  149  git add file3
+  150  git status
+  151  git commit -m "file3 commited" file3
+  152  git log
+  153  git show cdb7de8496270caebab775704d7dca3dd6bbb0f7
+  154  git config --global user.name"priya"
+  155  git config --global user.email"p@gmail.com"
+  156  touch pfile
+  157  git add pfile
+  158  git status
+  159  git commit -m"pfile commited" pfile
+  160  git log
+  161  git show 95c1d6b4c3749b88bdf31897bac9b552932f6a37
+  162  touch pfile
+  163  clear
+  164  git config --global user.name bhava
+  165  git config --global user.email bhava@gmail.com
+  166  touch file0
+  167  git add file0
+  168  git log file0
+  169  git log
+  170  git commit -m "file0 commited" file0
+  171  git log
+  172  git push
+  173  git push file0
+  174  git clone https://github.com/BhavaniSusmith/Practiceing-github.git
+  175  git push
+  176  git push file0
+  177  git push --set-upstream file0 master
+  178  git clone https://github.com/BhavaniSusmith/Learning-github.git
+  179  git push
+  180  git push
+  181  git push
+  182  git clone https://github.com/BhavaniSusmith/BB080425.git
+  183  cd 080425
+  184  cd 080425
+  185  ll
+  186  cd BB080425
+  187  clear
+  188  ll
+  189  touch java
+  190  git status
+  191  git add java
+  192  git status
+  193  git commit -m "java file commited" java
+  194  git log
+  195  git show bbd9969c02ce9b22290017e39e09c4aabd6d1212
+  196  ls -la
+  197  touch devops
+  198  git status
+  199  git add .
+  200  git status
+  201  git commit -m"devops commited"
+  202  git log
+  203  git push
+  204  clear
+  205  git config --global user.name"Fool"
+  206  git config --global user.email"fool@gmail.com"
+  207  touch krish
+  208  status
+  209  git status
+  210  git add.
+  211  git add .
+  212  git status
+  213  git commit -m"krish comitted"
+  214  git log
+  215  clear
+  216  git config --global user.name"fool"
+  217  git config --global user.email"fool@gmail.com"
+  218  touch fool
+  219  status
+  220  git status
+  221  git add fool
+  222  git status
+  223  git commit -m"fool commited"
+  224  git log
+  225  clear
+  226  git config --global user.name fff
+  227  git config --global user.email f@gmail.com
+  228  touch f
+  229  ll
+  230  git status
+  231  git add f fool
+  232  git status
+  233  git  commit -m "f commited" f
+  234  git status
+  235  git log
+  236  clear
+  237  git config --global user.name Ravi
+  238  git config --global user.email r@gmail.com
+  239  touch R1 R2 R3
+  240  git status
+  241  git add .
+  242  git status
+  243  git commit -m"R1&R2 commited" R1 R2
+  244  git log
+  245  git clone https://github.com/BhavaniSusmith/BB080425.git
+  246  cd BB080425
+  247  git push
+  248  clear
+  249  cd..
+  250  cd ..
+  251  cd BB080425
+  252  git push
+  253  git push
+  254  touch R1
+  255  git add R1
+  256  git commit -m"R1added" R1
+  257  git log
+  258  git push
+  259  git push
+  260  git config --gloabl user.name raghu
+  261  git config --global user.name raghu
+  262  git config --global user.email raghu@gmail.com
+  263  touch raghu ravi ram
+  264  git add .
+  265  git status
+  266  git commit -m"3 files commited"
+  267  git log
+  268  git show 019e8b2606bae77d9767c59d2b4d5be5b751b0c5
+  269  git clone https://github.com/BhavaniSusmith/Raghukiran.git
+  270  cd Raghukiran
+  271  git push
+  272  clear
+  273  git push
+  274  git status
+  275  git config --global user.name chiru
+  276  git config --global user.email chiru@gmail.com
+  277  touch chiru charan arjun
+  278  cat chiru
+  279  git status
+  280  git add .
+  281  git status
+  282  git commit -m"all three files commited" chiru charan arjun
+  283  git log
+  284  clear
+  285  git clone https://github.com/BhavaniSusmith/chiru-practice.git
+  286  git status
+  287  git log
+  288  git show 291c2ee906022750909a3c59ad3c6efc3d632c7f
+  289  cd chiru-practice
+  290  git push
+  291  git log
+  292  touch p1
+  293  git add p1
+  294  git comment -m"P comment" p1
+  295  git commit -m "P commit" p1
+  296  git clone https://github.com/BhavaniSusmith/chiru-practice.git
+  297  git push
+  298  cat p1
+  299  git push
+  300  git clone https://github.com/BhavaniSusmith/chiru-practice.git
+  301  git add p1
+  302  git commit -m"p1 updated" p1
+  303  git push
+  304  git config --global user.name kaaram
+  305  git config --global user.email kaaram@gmail.com
+  306  touch rowdy
+  307  touch baby
+  308  git status
+  309  git add rowdy baby
+  310  git commit -m" rowdy baby commmited" rowdy baby
+  311  git status
+  312  git log
+  313  git show 4601be7928ee7ec7cb21794f9334defd73ec87c5
+  314  ll
+  315  git clone https://github.com/BhavaniSusmith/sweet.git
+  316  cd sweet.git
+  317  cd sweet
+  318  git push rowdy
+  319  git push
+  320  clear
+  321  cd..
+  322  cd ..
+  323  git clone https://github.com/BhavaniSusmith/sweet.git
+  324  git clone https://github.com/BhavaniSusmith/sweet.git
+  325  git clone https://github.com/BhavaniSusmith/sweet.git
+  326  ll
+  327  cd sweet
+  328  ll
+  329  git clone https://github.com/BhavaniSusmith/sweet.git
+  330  ll
+  331  cd sweet
+  332  touch rowdy baby
+  333  cat baby
+  334  git add baby
+  335  gir commit -m"baby commited" baby
+  336  git commit -m"baby commited" baby
+  337  git push
+  338  git add baby
+  339  git commit -m"baby updated"
+  340  git push
+  341  history
+  342  git add baby
+  343  git commit -m" hostory updated" baby
+  344  git push
+  345  cd ..
+  346  git clone https://github.com/BhavaniSusmith/linux-commands.git
+  347  ll
+  348  cd linux-commands
+  349  touch prabha
+  350  git add prabha
+  351  git commit -m "added" prabha
+  352  git push
+  353  git add prabha
+  354  git commit -m"updated" prabha
+  355  git push
+  356  history
+
